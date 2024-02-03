@@ -1,4 +1,4 @@
 # ayush-demo
-first git respository 
+first git repository 
 <br>
 author-ayush(patil)
